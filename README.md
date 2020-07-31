@@ -1,4 +1,12 @@
-### Hi there 👋
+```json
+{
+    "name": "darcy",
+    "city": "shenzhen",
+    "hobbies": ["swimming", "gaming"]
+}
+```
+
+
 
 <!--
 **wilkice/wilkice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
