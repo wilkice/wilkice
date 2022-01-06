@@ -1,8 +1,7 @@
 ```json
 {
     "name": "darcy",
-    "city": "shenzhen",
-    "hobbies": ["swimming", "gaming"]
+    "city": "shenzhen"
 }
 ```
 
